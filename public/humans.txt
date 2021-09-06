@@ -1,0 +1,10 @@
+/* TEAM */
+
+Jack Jona
+https://jackjona.com
+@jackjona123
+From: Canada
+
+/* SITE */
+
+Software: Built with Nextjs, Tailwind CSS, Fake Store API, Firebase & Redux.
