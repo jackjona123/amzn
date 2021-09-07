@@ -2,7 +2,7 @@
 
 An Amazon Clone Built With Next.js
 
-## View The Live Deployment [Here](https://amzn.jackjona.live)
+## View The Live Deployment [Here](https://amzn-clone.ga)
 
 ## Disclaimer
 
